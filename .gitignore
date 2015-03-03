@@ -1,2 +1,20 @@
 Servers/
+*.class
+*.settings
 
+*.project
+
+*.classpath
+
+# Package Files #
+
+*.jar
+
+*.war
+
+*.ear
+
+**/target
+
+**/log
+.metadata

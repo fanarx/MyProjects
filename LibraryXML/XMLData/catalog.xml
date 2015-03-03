@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookCatalog>
+    <book>
+        <name>The Fight Club</name>
+        <author>
+            <firstName>Chuck</firstName>
+            <lastName>Palahniuk</lastName>
+        </author>
+        <ISBN>iiii</ISBN>
+        <count>4</count>
+        <editionYear>1950</editionYear>
+        <pubCompany>ppp</pubCompany>
+    </book>
+    <book>
+        <name>mBook</name>
+        <author>
+            <firstName>mBookAuthorFirstName</firstName>
+            <lastName>mBookAuthorLastName</lastName>
+        </author>
+        <ISBN>isbn</ISBN>
+        <count>4</count>
+        <editionYear>390</editionYear>
+        <pubCompany>pub</pubCompany>
+        <description>the book is ...</description>
+    </book>
+    <book>
+        <name>h</name>
+        <author>
+            <firstName>ha1</firstName>
+            <lastName>ha2</lastName>
+        </author>
+        <author>
+            <firstName>haa1</firstName>
+            <lastName>haa2</lastName>
+        </author>
+        <ISBN>isbn</ISBN>
+        <count>4</count>
+        <editionYear>392</editionYear>
+        <pubCompany>pub</pubCompany>
+    </book>
+</bookCatalog>

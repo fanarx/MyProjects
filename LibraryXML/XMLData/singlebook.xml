@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<book>
+    <name>h</name>
+    <author>
+        <firstName>ha1</firstName>
+        <lastName>ha2</lastName>
+    </author>
+    <author>
+        <firstName>haa1</firstName>
+        <lastName>haa2</lastName>
+    </author>
+    <ISBN>isbn</ISBN>
+    <count>4</count>
+    <editionYear>392</editionYear>
+    <pubCompany>pub</pubCompany>
+</book>

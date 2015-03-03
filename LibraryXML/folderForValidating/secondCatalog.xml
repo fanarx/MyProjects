@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookCatalog>
+    <book>
+        <name>FirstBookName</name>
+        <ISBN>FirstBookISBN</ISBN>
+        <count>1</count>
+        <editionYear>1911</editionYear>
+        <pubCompany>1PubCompany</pubCompany>
+    </book>
+    <book>
+        <name>17BookName</name>
+        <author>
+            <firstName>17authorFirstName</firstName>
+            <lastName>17authorLastName</lastName>
+        </author>
+        <ISBN>17BookISBN</ISBN>
+        <count>17</count>
+        <editionYear>19117</editionYear>
+        <pubCompany>17PubCompany</pubCompany>
+    </book>
+</bookCatalog>
